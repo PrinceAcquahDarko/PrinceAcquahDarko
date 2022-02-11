@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**PrinceAcquahDarko/PrinceAcquahDarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an app which allows users pay to chat with health personnel :heart_eyes:
 - 🌱 I’m planning on learning Go this very year if everything goes as planned :muscle:
