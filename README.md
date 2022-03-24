@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on an app which allows users pay to chat with health personnel :heart_eyes:
+- 🔭 I’m currently working on an app which allows users to upload and download memes :heart_eyes:
 - 🌱 I’m planning on learning Go this very year if everything goes as planned :muscle:
 - 👯 I’m looking to collaborate on angular, node.js and Typescript/Javascript projects
 - 🤔 I’m looking for good resources to begin my Go career
